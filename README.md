@@ -1,7 +1,7 @@
 
 
-### Module 1 Programming Basics**
-Binnen deze module wordt de absolute basis voor software engineering gelegd. Na deze moduele kan je de
+### Module 1 Programming Basics** 
+Binnen deze module wordt de absolute basis in C# voor software engineering gelegd. Na deze moduele kan je de
 verschillende datatypes onderscheiden en met loops werken. 
 
 Ook ben je in staat om; 
